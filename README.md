@@ -58,5 +58,12 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
 </a> 
 </p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=serifkudalak&show_icons=true&locale=en&layout=compact" alt="serifkudalak"/></p>
-<p><img src="https://github-readme-stats.vercel.app/api?username=serifkudalak&show_icons=true&locale=en" alt="serifkudalak"/></p>
+&nbsp;
+<div>
+ <span>
+  <img src="https://github-readme-stats.vercel.app/api?username=serifkudalak&show_icons=true&locale=en" alt="serifkudalak"/>
+ </span>
+ <span>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=serifkudalak&show_icons=true&locale=en&layout=compact" alt="serifkudalak"/>
+ </span>
+</div>
